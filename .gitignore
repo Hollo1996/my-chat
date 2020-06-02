@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+build/static/js/main.b91333fb.chunk.js.map
+build/static/css/main.c2f129b2.chunk.css.map
+build/static/js/main.b91333fb.chunk.js
+build/static/css/main.c2f129b2.chunk.css
+build/precache-manifest.9054a1dfc1f31edb79e376a79ef2f32f.js
